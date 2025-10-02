@@ -13,7 +13,10 @@ It also includes geolocation support and recent search history via LocalStorage.
 
 ## 📸 Screenshots
 ### Homepage
-![Weather Dashboard](screenshot.png)
+![Weather Dashboard](./assets/screenshot 1.png)
+![Home page](./assets/screenshot 2.png)
+![output page](./assets/screenshot 3.png)
+![knowing information of nex 5-days](./assets/screenshot 4.png)
 
 ---
 
