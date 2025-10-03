@@ -7,7 +7,7 @@ It also includes geolocation support and recent search history via LocalStorage.
 ---
 
 ## 🚀 Live Demo
-👉 [View Project]( https://poojanpatel12.github.io/-Dynamic-Weather-Dashboard/)
+👉 [ cleak here to View Project]( https://poojanpatel12.github.io/-Dynamic-Weather-Dashboard/)
 
 ---
 
